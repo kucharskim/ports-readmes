@@ -24,7 +24,7 @@
 <h2>[% category %]</h2>
 
 <ul id='web_other'>
-<li><a href='http://www.openbsd.org/cgi-bin/cvsweb/ports/[% category | html %]/'>CVSweb</a></li>
+<li><a href='http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/[% category | html %]/'>CVSweb</a></li>
 <li><a href='http://cvsweb.allbsd.org/cvsweb.cgi/ports/[% category | html %]/?cvsroot=openbsd'>allbsd</a></li>
 <li><a href='http://anoncvs.estpak.ee/cgi-bin/cgit/openbsd-ports/tree/[% category | html %]'>cgit</a></li>
 <li><a href='http://openports.se/[% category | html %]'>openports.se</a></li>
